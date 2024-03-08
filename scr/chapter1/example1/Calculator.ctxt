@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Calculator
+comment0.text=\r\n\ Create\ and\ run\ 10\ thread\ that\ would\ calculate\ the\ prime\ numbers\ within\r\n\ the\ first\ 20_000\ numbers.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ run()
+comment2.params=number
+comment2.target=boolean\ isPrime(long)
+numComments=3
