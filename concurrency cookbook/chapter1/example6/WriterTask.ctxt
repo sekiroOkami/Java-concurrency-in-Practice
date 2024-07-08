@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=WriterTask
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ WriterTask\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=deque
+comment1.target=WriterTask(java.util.Deque)
+comment2.params=
+comment2.target=java.util.Deque\ call()
+numComments=3

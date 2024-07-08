@@ -1,0 +1,12 @@
+1. using alien thread for non-trivial business logic.
+- practice of executing complex or important business logic on threads that are not dedicated to the current operation
+or context.
+
+*** Alien Threads
+An "alien thread" is any thread that originates outside the current context or control.
+These threads could be part of a thread pool managed by a framework, library, or some external system.
+They are not owned or managed directly by the business logic that is being executed.
+
+*** Non-Trivial Business Logic
+"Non-trivial business logic" refers to complex, important, or critical operations within your application.
+This might include operations like processing transactions, handling critical data transformations, or performing intricate calculations.
